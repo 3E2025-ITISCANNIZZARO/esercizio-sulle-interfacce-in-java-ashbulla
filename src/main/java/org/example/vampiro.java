@@ -11,7 +11,6 @@ public class Vampiro extends Extraterrestre {
         forza-=2;
     }
     public int getForza(){
-        return forza;    
-    }
+        return forza;         
   
 }
